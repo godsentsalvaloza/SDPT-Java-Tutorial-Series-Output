@@ -1,5 +1,5 @@
 
-# SDPT Java Tutorial Series Output
+# SDPT Java Tutorial Series Projects
 
 Solutions for the Java Course by SDPT Solutions.
 
